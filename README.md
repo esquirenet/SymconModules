@@ -1,2 +1,3 @@
-# SymconModules
-esquire.ms Modules for IP-Symcon
+# IPSmorgenwirdes
+
+Folgende Module beinhaltet das IPSmorgenwirdes Repository:
